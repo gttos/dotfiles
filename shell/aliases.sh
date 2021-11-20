@@ -28,3 +28,10 @@ alias i.='(idea $PWD &>/dev/null &)'
 alias c.='(code $PWD &>/dev/null &)'
 alias o.='open .'
 alias up='dot package update_all'
+
+
+# SSH
+alias cmanejo="ssh santo@134.209.69.243"
+alias cfuck="ssh root@138.68.141.73"
+alias cduck="ssh root@167.172.175.53"
+alias cideass="ssh root@178.62.121.227"
